@@ -1,0 +1,5 @@
+jupyter
+pandas
+pycaret
+ydata-profiling
+streamlit
